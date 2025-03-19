@@ -46,3 +46,6 @@
 [submodule "sdkjs-plugins/plugin-zotero"]
 	path = sdkjs-plugins/plugin-zotero
 	url = https://github.com/ONLYOFFICE/plugin-zotero
+[submodule "onlyoffice.github.io"]
+	path = onlyoffice.github.io
+	url = https://github.com/ONLYOFFICE/onlyoffice.github.io
