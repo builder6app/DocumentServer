@@ -49,3 +49,6 @@
 [submodule "onlyoffice.github.io"]
 	path = onlyoffice.github.io
 	url = https://github.com/ONLYOFFICE/onlyoffice.github.io
+[submodule "onlyoffice-chinese-fonts"]
+	path = onlyoffice-chinese-fonts
+	url = https://github.com/funggtopp/onlyoffice-chinese-fonts
